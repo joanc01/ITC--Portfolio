@@ -24,3 +24,7 @@ Joan Casia
 
 ## License
 For educational purposes only.
+## Links
+- GitHub Repository: https://github.com/joanc01/ITC--Portfolio
+- Live Website: https://joanc01.github.io/ITC--Portfolio/
+- 
