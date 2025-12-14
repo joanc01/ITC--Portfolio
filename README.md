@@ -5,9 +5,10 @@ This is a simple website project created using HTML and CSS for school submissio
 
 ## Files Included
 - index.html
+- about.html
 - projects.html
 - contact.html
-- style.css
+- stlyle.css
 - README.md
 
 ## How to Run
