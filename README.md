@@ -17,14 +17,11 @@ This is a simple website project created using HTML and CSS for school submissio
 3. Open index.html in a web browser
 
 ## Links
-- GitHub Repository: https://github.com/joanc01/ITC--Portfolio
-- Live Website: (to be added)
+- Live Website URL: https://joanc01.github.io/ITC--Portfolio/
+- GitHub Repository Link: https://github.com/joanc01/ITC--Portfolio
 
 ## Author
 Joan Casia
 
 ## License
 For educational purposes only.
-## Links
-- Live Website URL: https://joanc01.github.io/ITC--Portfolio/
-- GitHub Repository Link: https://github.com/joanc01/ITC--Portfolio
